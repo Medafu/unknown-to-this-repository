@@ -2,6 +2,7 @@
 null,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":461},
 =======
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1089.3333333333333,"scrollY":614.6666666666666},
@@ -9,5 +10,8 @@ null,
 =======
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":832,"scrollY":640},
 >>>>>>> parent of ff215c5... name change your switch орентатион
+=======
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+>>>>>>> parent of 512005c... dfd
 {"id":2,"expanded":false,"name":"Room with man","order":2,"parentId":1,"scrollX":819,"scrollY":461}
 ]

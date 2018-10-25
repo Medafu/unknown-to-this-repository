@@ -1,5 +1,9 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+=======
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1089.3333333333333,"scrollY":614.6666666666666},
+>>>>>>> 86cca288eef6a0900259a7df09517fd181704365
 {"id":2,"expanded":false,"name":"Room with man","order":2,"parentId":1,"scrollX":819,"scrollY":461}
 ]
